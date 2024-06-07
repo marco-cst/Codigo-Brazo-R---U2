@@ -5,3 +5,4 @@ Los códigos estarán desarrolados en C++.<br>
 Además de ello, incluiremos los diagramas UML de cada código desarrollado.<br>
 ### **Auto a control ps2 UML**
 <div align="center"><img src="https://raw.githubusercontent.com/145548109/Codigo-Brazo-R---U2/main/UmlAuto/AutControl.png"></summary><br>
+
