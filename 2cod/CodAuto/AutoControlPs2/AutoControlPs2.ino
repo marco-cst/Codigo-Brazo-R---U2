@@ -99,3 +99,5 @@ void setup() {
 void loop() {
     controladorPs2.loop(); // Llama al método loop de la instancia del controlador PS2
 }
+
+//FIN DEL CODIGO
